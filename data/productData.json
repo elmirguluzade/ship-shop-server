@@ -1,0 +1,772 @@
+[
+  {
+    "title": "iPhone 9",
+    "price": 549,
+    "images": [
+      "https://cdn.dummyjson.com/product-images/1/1.jpg",
+      "https://cdn.dummyjson.com/product-images/1/2.jpg",
+      "https://cdn.dummyjson.com/product-images/1/3.jpg",
+      "https://cdn.dummyjson.com/product-images/1/4.jpg",
+      "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg"
+    ],
+    "category": "smartphones",
+    "colors": ["red", "blue"],
+    "description": "An apple mobile which is nothing like apple",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "iPhone X",
+    "price": 899,
+    "images": [
+      "https://cdn.dummyjson.com/product-images/2/1.jpg",
+      "https://cdn.dummyjson.com/product-images/2/2.jpg",
+      "https://cdn.dummyjson.com/product-images/2/3.jpg",
+      "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
+    ],
+    "category": "smartphones",
+    "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Samsung Universe 9",
+    "price": 1249,
+    "images": [
+      "https://cdn.dummyjson.com/product-images/3/1.jpg"
+    ],
+    "category": "smartphones",
+    "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "OPPOF19",
+    "price": 280,
+    "images": [
+      "https://cdn.dummyjson.com/product-images/4/1.jpg",
+      "https://cdn.dummyjson.com/product-images/4/2.jpg",
+      "https://cdn.dummyjson.com/product-images/4/3.jpg",
+      "https://cdn.dummyjson.com/product-images/4/4.jpg",
+      "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg"
+    ],
+    "category": "smartphones",
+    "description": "OPPO F19 is officially announced on April 2021.",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Huawei P30",
+    "price": 499,
+    "images": [
+      "https://cdn.dummyjson.com/product-images/5/1.jpg",
+      "https://cdn.dummyjson.com/product-images/5/2.jpg",
+      "https://cdn.dummyjson.com/product-images/5/3.jpg"
+    ],
+    "category": "smartphones",
+    "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "MacBook Pro",
+    "price": 1749,
+    "images": [
+      "https://cdn.dummyjson.com/product-images/6/1.png",
+      "https://cdn.dummyjson.com/product-images/6/2.jpg",
+      "https://cdn.dummyjson.com/product-images/6/3.png",
+      "https://cdn.dummyjson.com/product-images/6/4.jpg"
+    ],
+    "category": "laptops",
+    "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Samsung Galaxy Book",
+    "price": 1499,
+    "images": [
+      "https://cdn.dummyjson.com/product-images/7/1.jpg",
+      "https://cdn.dummyjson.com/product-images/7/2.jpg",
+      "https://cdn.dummyjson.com/product-images/7/3.jpg",
+      "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg"
+    ],
+    "category": "laptops",
+    "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Microsoft Surface Laptop 4",
+    "price": 1499,
+    "images": [
+      "https://cdn.dummyjson.com/product-images/8/1.jpg",
+      "https://cdn.dummyjson.com/product-images/8/2.jpg",
+      "https://cdn.dummyjson.com/product-images/8/3.jpg",
+      "https://cdn.dummyjson.com/product-images/8/4.jpg",
+      "https://cdn.dummyjson.com/product-images/8/thumbnail.jpg"
+    ],
+    "category": "laptops",
+    "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Infinix INBOOK",
+    "price": 1099,
+    "images": [
+      "https://cdn.dummyjson.com/product-images/9/1.jpg",
+      "https://cdn.dummyjson.com/product-images/9/2.png",
+      "https://cdn.dummyjson.com/product-images/9/3.png",
+      "https://cdn.dummyjson.com/product-images/9/4.jpg",
+      "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg"
+    ],
+    "category": "laptops",
+    "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "HP Pavilion 15-DK1056WM",
+    "price": 1099,
+    "images": [
+      "https://cdn.dummyjson.com/product-images/10/1.jpg",
+      "https://cdn.dummyjson.com/product-images/10/2.jpg",
+      "https://cdn.dummyjson.com/product-images/10/3.jpg",
+      "https://cdn.dummyjson.com/product-images/10/thumbnail.jpeg"
+    ],
+    "category": "laptops",
+    "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "perfume Oil",
+    "price": 13,
+    "images": [
+      "https://cdn.dummyjson.com/product-images/11/1.jpg",
+      "https://cdn.dummyjson.com/product-images/11/2.jpg",
+      "https://cdn.dummyjson.com/product-images/11/3.jpg",
+      "https://cdn.dummyjson.com/product-images/11/thumbnail.jpg"
+    ],
+    "category": "fragrances",
+    "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Brown Perfume",
+    "price": 40,
+    "images": [
+      "https://cdn.dummyjson.com/product-images/12/1.jpg",
+      "https://cdn.dummyjson.com/product-images/12/2.jpg",
+      "https://cdn.dummyjson.com/product-images/12/3.png",
+      "https://cdn.dummyjson.com/product-images/12/4.jpg",
+      "https://cdn.dummyjson.com/product-images/12/thumbnail.jpg"
+    ],
+    "category": "fragrances",
+    "description": "Royal_Mirage Sport Brown Perfume for Men & Women - 120ml",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Fog Scent Xpressio Perfume",
+    "price": 13,
+    "images": [
+      "https://cdn.dummyjson.com/product-images/13/1.jpg",
+      "https://cdn.dummyjson.com/product-images/13/2.png",
+      "https://cdn.dummyjson.com/product-images/13/3.jpg",
+      "https://cdn.dummyjson.com/product-images/13/4.jpg",
+      "https://cdn.dummyjson.com/product-images/13/thumbnail.webp"
+    ],
+    "category": "fragrances",
+    "description": "Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Non-Alcoholic Concentrated Perfume Oil",
+    "price": 120,
+    "images": [
+      "https://cdn.dummyjson.com/product-images/14/1.jpg",
+      "https://cdn.dummyjson.com/product-images/14/2.jpg",
+      "https://cdn.dummyjson.com/product-images/14/3.jpg",
+      "https://cdn.dummyjson.com/product-images/14/thumbnail.jpg"
+    ],
+    "category": "fragrances",
+    "description": "Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Eau De Perfume Spray",
+    "price": 30,
+    "images": [
+      "https://cdn.dummyjson.com/product-images/15/1.jpg",
+      "https://cdn.dummyjson.com/product-images/15/2.jpg",
+      "https://cdn.dummyjson.com/product-images/15/3.jpg",
+      "https://cdn.dummyjson.com/product-images/15/4.jpg",
+      "https://cdn.dummyjson.com/product-images/15/thumbnail.jpg"
+    ],
+    "category": "fragrances",
+    "description": "Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Hyaluronic Acid Serum",
+    "price": 19,
+    "images": [
+      "https://cdn.dummyjson.com/product-images/16/1.png",
+      "https://cdn.dummyjson.com/product-images/16/2.webp",
+      "https://cdn.dummyjson.com/product-images/16/3.jpg",
+      "https://cdn.dummyjson.com/product-images/16/4.jpg",
+      "https://cdn.dummyjson.com/product-images/16/thumbnail.jpg"
+    ],
+    "category": "skincare",
+    "description": "L'OrÃ©al Paris introduces Hyaluron Expert Replumping Serum formulated with 1.5% Hyaluronic Acid",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Tree Oil 30ml",
+    "price": 12,
+    "images": [
+      "https://cdn.dummyjson.com/product-images/17/1.jpg",
+      "https://cdn.dummyjson.com/product-images/17/2.jpg",
+      "https://cdn.dummyjson.com/product-images/17/3.jpg",
+      "https://cdn.dummyjson.com/product-images/17/thumbnail.jpg"
+    ],
+    "category": "skincare",
+    "description": "Tea tree oil contains a number of compounds, including terpinen-4-ol, that have been shown to kill certain bacteria,",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Oil Free Moisturizer 100ml",
+    "price": 40,
+    "images": [
+      "https://cdn.dummyjson.com/product-images/18/1.jpg",
+      "https://cdn.dummyjson.com/product-images/18/2.jpg",
+      "https://cdn.dummyjson.com/product-images/18/3.jpg",
+      "https://cdn.dummyjson.com/product-images/18/4.jpg",
+      "https://cdn.dummyjson.com/product-images/18/thumbnail.jpg"
+    ],
+    "category": "skincare",
+    "description": "Dermive Oil Free Moisturizer with SPF 20 is specifically formulated with ceramides, hyaluronic acid & sunscreen.",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Skin Beauty Serum.",
+    "price": 46,
+    "images": [
+      "https://cdn.dummyjson.com/product-images/19/1.jpg",
+      "https://cdn.dummyjson.com/product-images/19/2.jpg",
+      "https://cdn.dummyjson.com/product-images/19/3.png",
+      "https://cdn.dummyjson.com/product-images/19/thumbnail.jpg"
+    ],
+    "category": "skincare",
+    "description": "Product name: rorec collagen hyaluronic acid white face serum riceNet weight: 15 m",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Freckle Treatment Cream- 15gm",
+    "price": 70,
+    "images": [
+      "https://cdn.dummyjson.com/product-images/20/1.jpg",
+      "https://cdn.dummyjson.com/product-images/20/2.jpg",
+      "https://cdn.dummyjson.com/product-images/20/3.jpg",
+      "https://cdn.dummyjson.com/product-images/20/4.jpg",
+      "https://cdn.dummyjson.com/product-images/20/thumbnail.jpg"
+    ],
+    "category": "skincare",
+    "description": "Fair & Clear is Pakistan's only pure Freckle cream which helpsfade Freckles, Darkspots and pigments. Mercury level is 0%, so there are no side effects.",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "- Daal Masoor 500 grams",
+    "price": 20,
+    "images": [
+      "https://cdn.dummyjson.com/product-images/21/1.png",
+      "https://cdn.dummyjson.com/product-images/21/2.jpg",
+      "https://cdn.dummyjson.com/product-images/21/3.jpg"
+    ],
+    "category": "groceries",
+    "description": "Fine quality Branded Product Keep in a cool and dry place",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Elbow Macaroni - 400 gm",
+    "price": 14,
+    "images": [
+      "https://cdn.dummyjson.com/product-images/22/1.jpg",
+      "https://cdn.dummyjson.com/product-images/22/2.jpg",
+      "https://cdn.dummyjson.com/product-images/22/3.jpg"
+    ],
+    "category": "groceries",
+    "description": "Product details of Bake Parlor Big Elbow Macaroni - 400 gm",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Orange Essence Food Flavou",
+    "price": 14,
+    "images": [
+      "https://cdn.dummyjson.com/product-images/23/1.jpg",
+      "https://cdn.dummyjson.com/product-images/23/2.jpg",
+      "https://cdn.dummyjson.com/product-images/23/3.jpg",
+      "https://cdn.dummyjson.com/product-images/23/4.jpg",
+      "https://cdn.dummyjson.com/product-images/23/thumbnail.jpg"
+    ],
+    "category": "groceries",
+    "description": "Specifications of Orange Essence Food Flavour For Cakes and Baking Food Item",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "cereals muesli fruit nuts",
+    "price": 46,
+    "images": [
+      "https://cdn.dummyjson.com/product-images/24/1.jpg",
+      "https://cdn.dummyjson.com/product-images/24/2.jpg",
+      "https://cdn.dummyjson.com/product-images/24/3.jpg",
+      "https://cdn.dummyjson.com/product-images/24/4.jpg",
+      "https://cdn.dummyjson.com/product-images/24/thumbnail.jpg"
+    ],
+    "category": "groceries",
+    "description": "original fauji cereal muesli 250gm box pack original fauji cereals muesli fruit nuts flakes breakfast cereal break fast faujicereals cerels cerel foji fouji",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Gulab Powder 50 Gram",
+    "price": 70,
+    "images": [
+      "https://cdn.dummyjson.com/product-images/25/1.png",
+      "https://cdn.dummyjson.com/product-images/25/2.jpg",
+      "https://cdn.dummyjson.com/product-images/25/3.png",
+      "https://cdn.dummyjson.com/product-images/25/4.jpg",
+      "https://cdn.dummyjson.com/product-images/25/thumbnail.jpg"
+    ],
+    "category": "groceries",
+    "description": "Dry Rose Flower Powder Gulab Powder 50 Gram • Treats Wounds",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Plant Hanger For decoration",
+    "price": 41,
+    "images": [
+      "https://cdn.dummyjson.com/product-images/26/1.jpg",
+      "https://cdn.dummyjson.com/product-images/26/2.jpg",
+      "https://cdn.dummyjson.com/product-images/26/3.jpg",
+      "https://cdn.dummyjson.com/product-images/26/4.jpg",
+      "https://cdn.dummyjson.com/product-images/26/5.jpg",
+      "https://cdn.dummyjson.com/product-images/26/thumbnail.jpg"
+    ],
+    "category": "decoration",
+    "description": "Boho Decor Plant Hanger For decoration Wall Decoration Macrame Wall Hanging Shelf",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Flying Wooden Bird",
+    "price": 51,
+    "images": [
+      "https://cdn.dummyjson.com/product-images/27/1.jpg",
+      "https://cdn.dummyjson.com/product-images/27/2.jpg",
+      "https://cdn.dummyjson.com/product-images/27/3.jpg",
+      "https://cdn.dummyjson.com/product-images/27/4.jpg",
+      "https://cdn.dummyjson.com/product-images/27/thumbnail.webp"
+    ],
+    "category": "decoration",
+    "description": "Package Include 6 Birds with Adhesive Tape Shape: 3D Shaped Wooden Birds Material: Wooden MDF, Laminated 3.5mm",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "3D Embellishment Art Lamp",
+    "price": 20,
+    "images": [
+      "https://cdn.dummyjson.com/product-images/28/1.jpg",
+      "https://cdn.dummyjson.com/product-images/28/2.jpg",
+      "https://cdn.dummyjson.com/product-images/28/3.png",
+      "https://cdn.dummyjson.com/product-images/28/4.jpg",
+      "https://cdn.dummyjson.com/product-images/28/thumbnail.jpg"
+    ],
+    "category": "decoration",
+    "description": "3D led lamp sticker Wall sticker 3d wall art light on/off button  cell operated (included)",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Handcraft Chinese style",
+    "price": 60,
+    "images": [
+      "https://cdn.dummyjson.com/product-images/29/1.jpg",
+      "https://cdn.dummyjson.com/product-images/29/2.jpg",
+      "https://cdn.dummyjson.com/product-images/29/3.webp",
+      "https://cdn.dummyjson.com/product-images/29/4.webp",
+      "https://cdn.dummyjson.com/product-images/29/thumbnail.webp"
+    ],
+    "category": "decoration",
+    "description": "Handcraft Chinese style art luxury palace hotel villa mansion decoration decor ceramic vase with brass fruit plate",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Key Holder",
+    "price": 30,
+    "images": [
+      "https://cdn.dummyjson.com/product-images/30/1.jpg",
+      "https://cdn.dummyjson.com/product-images/30/2.jpg",
+      "https://cdn.dummyjson.com/product-images/30/3.jpg",
+      "https://cdn.dummyjson.com/product-images/30/thumbnail.jpg"
+    ],
+    "category": "decoration",
+    "description": "Attractive DesignMetallic materialFour key hooksReliable & DurablePremium Quality",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Apple iPhone 11 Pro Max",
+    "price": 349.26,
+    "images": [
+      "https://m.media-amazon.com/images/I/414sl59bDbL._SS36_.jpg",
+      "https://m.media-amazon.com/images/I/31YxSq6yBDS._SS36_.jpg",
+      "https://m.media-amazon.com/images/I/41nmV2+lMFS._SS36_.jpg",
+      "https://m.media-amazon.com/images/I/31CMgYbU5zL._SS36_.jpg"
+    ],
+    "category": "smartphones",
+    "description": "Inspected and guaranteed to have minimal cosmetic damage",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Apple iPhone 14 Plus",
+    "price": 559.97,
+    "images": [
+      "https://m.media-amazon.com/images/I/716fAVud8PL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/713C6WEqyKL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71gApuoaMhL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61UI6BGSrhL._AC_SL1500_.jpg"
+    ],
+    "category": "smartphones",
+    "description": "6.7-inch Super Retina XDR display and advanced camera system for better photos in any light.",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Apple 2022 MacBook Air Laptop with M2 chip",
+    "price": 820.71,
+    "images": [
+      "https://m.media-amazon.com/images/I/61PwBmt4H-L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71f5Eu5lJSL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61XufEFo1dL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81NQuPi96IL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61HS4BY-4rL._AC_SL1500_.jpg"
+    ],
+    "category": "laptops",
+    "description": "Your Mac feels familiar from the moment you turn it on, and works seamlessly with all your Apple devices.",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Spigen DR210 Padded Head Strap Designed for Apple Vision Pro HeadStrap ",
+    "price": 26.99,
+    "images": [
+      "https://m.media-amazon.com/images/I/61X336E2zUL._AC_SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/71eMUJPqVSL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61BkhGwpSZL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71SegBb5lwL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71qxikk7yyL._AC_SL1500_.jpg"
+    ],
+    "category": "accessories",
+    "description": "Upgrade Your Comfort: Luxurious, premium materials elevate your Apple Vision Pro experience with a seamless, sleek fit.",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Apple AirPods Pro (2nd Generation)",
+    "price": 137.46,
+    "images": [
+      "https://m.media-amazon.com/images/I/61SUj2aKoEL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61sRKTAfrhL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51emillNpWL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51+vJkbGtJL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/5121OBX4JIL._AC_SL1500_.jpg"
+    ],
+    "category": "airpods",
+    "description": "DUST, SWEAT, AND WATER RESISTANT ",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Apple iPhone 11 Pro Max",
+    "price": 349.26,
+    "images": [
+      "https://m.media-amazon.com/images/I/61GJXo+EltS._AC_SL1144_.jpg",
+      "https://m.media-amazon.com/images/I/71v5v3awHCS._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/6121gBAXD8S._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/21SmRjOFrVS._AC_.jpg"
+    ],
+    "category": "smartphones",
+    "description": "Inspected and guaranteed to have minimal cosmetic damage",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Apple iPhone 12 Mini",
+    "price": 204.24,
+    "images": [
+      "https://m.media-amazon.com/images/I/510Fpe16MoL._AC_SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/41UR9-reUEL._AC_SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/51rNY4vxAEL._AC_SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/41UR9-reUEL._AC_SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61CJFIYcr1L._AC_SL1392_.jpg"
+    ],
+    "category": "smartphones",
+    "description": "Tested for battery health and guaranteed to have a minimum battery capacity of 80%",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "14 Pro MAX Unlocked Cell Phone",
+    "price": 158.99,
+    "images": [
+      "https://m.media-amazon.com/images/I/61cv1bH0diL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71milG+ZcoL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71jf7i4vojL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81HmtIWPLpL._AC_SL1500_.jpg"
+    ],
+    "category": "smartphones",
+    "description": "6.8-inch HD Screen with 3040*1440 resolution 5G cell phones",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Apple Watch series 9",
+    "price": 287.22,
+    "images": [
+      "https://m.media-amazon.com/images/I/71sL5i7LVeL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71LLC5zHvSL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71lpJk+FHrL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71I-4Vt2mFL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61Wv+lEHyLL._AC_SL1500_.jpg"
+    ],
+    "category": "watch",
+    "description": "Smartwatch with (Product) RED Aluminum Case with (Product) RED Sport Band M/L.",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Apple iPhone 12 Mini",
+    "price": 75,
+    "images": [
+      "https://m.media-amazon.com/images/I/718tXCSqmOL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71CjFRqKPeL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/712ZS2ZzNcL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/712ZS2ZzNcL._AC_SL1500_.jpg"
+    ],
+    "category": "smartphones",
+    "description": " Battery exceeds 90% of original capacity and has minimal cosmetic damage",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Fujifilm Instax Mini 9",
+    "price": 73.99,
+    "images": [
+      "https://m.media-amazon.com/images/I/61jiSsnuRUL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/613ccUfUluL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81UHXcaE1VL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51UMHLC0ocL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51lJucdgQYL._AC_SL1500_.jpg"
+    ],
+    "category": "camera",
+    "description": "New selfie mirror; Picture size: 62 x 46 millimeter and shutter speed 1 per 60 seconds",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Apple Watch Series 9",
+    "price": 296.01,
+    "images": [
+      "https://m.media-amazon.com/images/I/61fQEcyzLvL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61wepBus4aL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71rZm6Ju1lL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81C8zw3D4YL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61+6J0Aez9L._AC_SL1500_.jpg"
+    ],
+    "category": "watch",
+    "description": " An aluminum Apple Watch Series 9 paired with the latest Sport Loop",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Apple Watch Ultra 2",
+    "price": 719,
+    "images": [
+      "https://m.media-amazon.com/images/I/815fuZQlS6L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81D7OmeXqoL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/710TCQwhJuL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71TF0UqLVXL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/717FvBTWJrL._AC_SL1500_.jpg"
+    ],
+    "category": "watch",
+    "description": "Up to 36 hours of battery life and 72 hours in Low Power Mode",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Apple AirPods Max Wireless Over-Ear Headphones",
+    "price": 431.99,
+    "images": [
+      "https://m.media-amazon.com/images/I/81NIpE9-5mL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81jw08zdEgL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71+Z69HbGhL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81mT7xT5FyL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71QlK+ujnDL._AC_SL1500_.jpg"
+    ],
+    "category": "airpods",
+    "description": " Up to 20 hours of listening, movie watching, or talk time with Active Noise Cancellation",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Fujifilm Instax Mini 12",
+    "price": 124.95,
+    "images": [
+      "https://m.media-amazon.com/images/I/71zvZoWVxRL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81lCl398ZQL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41FKJhyGvaL._AC_.jpg",
+      "https://m.media-amazon.com/images/I/81ArNBh8xwL._AC_SL1500_.jpg"
+    ],
+    "category": "camera",
+    "description": "Keep your photos out for viewing, or store them neatly.",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Fujifilm Instax Mini 9",
+    "price": 69.26,
+    "images": [
+      "https://m.media-amazon.com/images/I/61oRjn+XuBL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/716CdRaTO-L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61POMurtewL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/31fC-cKbF+L._AC_.jpg"
+    ],
+    "category": "camera",
+    "description": "Products with electrical plugs are designed for use in the US",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "MOVSSOU E7 Active Noise Cancelling Headphones ",
+    "price": 124.95,
+    "images": [
+      "https://m.media-amazon.com/images/I/71PhAwb1WhL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/716ptOGRg9L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71UuK1nljKL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71D-E0ztSNL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71IADY0XlJL._AC_SL1500_.jpg"
+    ],
+    "category": "Headphone",
+    "description": "Advanced Active Noise Cancelling Technology: Reduced noise, better sound.",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Dell Gaming OptiPlex Desktop RGB Computer PC",
+    "price": 322.29,
+    "images": [
+      "https://m.media-amazon.com/images/I/81-nlq94ERL._AC_SL1486_.jpg",
+      "https://m.media-amazon.com/images/I/715sKOJmLaL._AC_SL1459_.jpg",
+      "https://m.media-amazon.com/images/I/7120Jt0MvuL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71TJk1VULtL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71MAp5KCQrL._AC_SL1500_.jpg"
+    ],
+    "category": "Computer",
+    "description": " Intel Core i7, GeForce GT 1030 2GB GDDR5, 16GB RAM, 512GB SSD, 24 Inch HDMI Monitor, Keyboard Mouse and Headset, WiFi, Windows 10 Pro",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "021 Apple 11-inch iPad Pro ",
+    "price": 999,
+    "images": [
+      "https://m.media-amazon.com/images/I/815KnP2wjDS._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71bwIJGoOhS._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71tvhvvFxzL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/813bnCMpejL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61aOg-7RwgS._AC_SL1500_.jpg"
+    ],
+    "category": "Tablets",
+    "description": "Apple M1 chip for next-level performance.",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Apple iPad (10th Generation)",
+    "price": 307.28,
+    "images": [
+      "https://m.media-amazon.com/images/I/61hZrbHRMWL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91psKPUkS4L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71hPJvZKLpL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71dSEx5u7vL._AC_SL1500_.jpg"
+    ],
+    "category": "Tablets",
+    "description": "Colorfully reimagined and more versatile than ever, iPad is great for the things you do every day.",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "MOFII Wireless Keyboard and Mouse Combo, Pink Wireless Keyboard.",
+    "price": 30.59,
+    "images": [
+      "https://m.media-amazon.com/images/I/71hNoEtGZML._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71ugJUNc7RL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61unDWu6DFL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/711kn92e4lL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71WYbRG91cL._AC_SL1500_.jpg"
+    ],
+    "category": "keyboard",
+    "description": "The Colorful Keyboard with number pad and mice combo add vitality to your Desktop.",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "M SANMERSEN Kids Piano Keyboard with Microphone for Beginners Musical Toy",
+    "price": 19.99,
+    "images": [
+      "https://m.media-amazon.com/images/I/71Up0R1xDBL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Kyb1FLd0L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71gpz4GjmYL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81g28xIIOTL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71gpz4GjmYL._AC_SL1500_.jpg"
+    ],
+    "category": "keyboard",
+    "description": "The upgraded keyboard piano has more functions and better sound quality, making it a great musical learning toy.",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "SAMSUNG Galaxy S24 Ultra Cell Phone, 512GB AI Smartphone",
+    "price": 1365,
+    "images": [
+      "https://m.media-amazon.com/images/I/71WcjsOVOmL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71yelMyyFJL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81M78G-fzTL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81cL-tAS2lL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71gIPsoSQBL._AC_SL1500_.jpg"
+    ],
+    "category": "smartphones",
+    "description": "200MP, 100x Zoom Cameras, Long Battery Life, S Pen, US Version, 2024, Titanium Black.",
+    "rating": 0,
+    "reviews": []
+  }
+]
