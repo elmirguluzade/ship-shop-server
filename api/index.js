@@ -6,7 +6,6 @@ const cookieParser = require('cookie-parser')
 const errorHandler = require('../errors/ErrorHandler')
 const userRouter = require('../routes/userRouter');
 const productRouter = require('../routes/productRouter');
-// require("dotenv").config({ path: "./config.env" });
 
 app.use(cors({credentials: true, origin: "https://shipshops.vercel.app"}))
 app.use(express.json())
