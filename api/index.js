@@ -8,7 +8,7 @@ const userRouter = require('../routes/userRouter');
 const productRouter = require('../routes/productRouter');
 // require("dotenv").config({ path: "./config.env" });
 
-app.use(cors({credentials: true, origin: "https://shipshop-client.vercel.app"}))
+app.use(cors({credentials: true, origin: "https://shipshops.vercel.app"}))
 app.use(express.json())
 app.use(cookieParser())
 
