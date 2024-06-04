@@ -8,7 +8,7 @@ const userRouter = require('./routes/userRouter');
 const productRouter = require('./routes/productRouter');
 require("dotenv").config({ path: "./config.env" });
 
-app.use(cors({credentials: true, origin: process.env.FRONTEND_URL}))
+app.use(cors({credentials: true, origin: "http://localhost:5173"}))
 app.use(express.json())
 app.use(cookieParser())
 
