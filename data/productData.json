@@ -10,8 +10,8 @@
       "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg"
     ],
     "category": "smartphones",
-    "colors": ["red", "blue"],
     "description": "An apple mobile which is nothing like apple",
+    "colors": ["black", "white"],
     "rating": 0,
     "reviews": []
   },
@@ -26,17 +26,17 @@
     ],
     "category": "smartphones",
     "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+    "colors": ["black", "grey"],
     "rating": 0,
     "reviews": []
   },
   {
     "title": "Samsung Universe 9",
     "price": 1249,
-    "images": [
-      "https://cdn.dummyjson.com/product-images/3/1.jpg"
-    ],
+    "images": ["https://cdn.dummyjson.com/product-images/3/1.jpg"],
     "category": "smartphones",
     "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+    "colors": ["grey", "white"],
     "rating": 0,
     "reviews": []
   },
@@ -52,19 +52,7 @@
     ],
     "category": "smartphones",
     "description": "OPPO F19 is officially announced on April 2021.",
-    "rating": 0,
-    "reviews": []
-  },
-  {
-    "title": "Huawei P30",
-    "price": 499,
-    "images": [
-      "https://cdn.dummyjson.com/product-images/5/1.jpg",
-      "https://cdn.dummyjson.com/product-images/5/2.jpg",
-      "https://cdn.dummyjson.com/product-images/5/3.jpg"
-    ],
-    "category": "smartphones",
-    "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+    "colors": ["gold", "white"],
     "rating": 0,
     "reviews": []
   },
@@ -79,6 +67,7 @@
     ],
     "category": "laptops",
     "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+    "colors": ["black", "silver"],
     "rating": 0,
     "reviews": []
   },
@@ -93,6 +82,7 @@
     ],
     "category": "laptops",
     "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+    "colors": ["black", "gold"],
     "rating": 0,
     "reviews": []
   },
@@ -108,6 +98,7 @@
     ],
     "category": "laptops",
     "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+    "colors": ["gold", "silver"],
     "rating": 0,
     "reviews": []
   },
@@ -123,6 +114,7 @@
     ],
     "category": "laptops",
     "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+    "colors": ["gold", "grey"],
     "rating": 0,
     "reviews": []
   },
@@ -137,11 +129,12 @@
     ],
     "category": "laptops",
     "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+    "colors": ["black", "white"],
     "rating": 0,
     "reviews": []
   },
   {
-    "title": "perfume Oil",
+    "title": "Perfume Oil",
     "price": 13,
     "images": [
       "https://cdn.dummyjson.com/product-images/11/1.jpg",
@@ -151,6 +144,7 @@
     ],
     "category": "fragrances",
     "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
+    "colors": ["grey", "red"],
     "rating": 0,
     "reviews": []
   },
@@ -166,6 +160,7 @@
     ],
     "category": "fragrances",
     "description": "Royal_Mirage Sport Brown Perfume for Men & Women - 120ml",
+    "colors": ["brown", "white"],
     "rating": 0,
     "reviews": []
   },
@@ -181,11 +176,12 @@
     ],
     "category": "fragrances",
     "description": "Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men",
+    "colors": ["black", "green"],
     "rating": 0,
     "reviews": []
   },
   {
-    "title": "Non-Alcoholic Concentrated Perfume Oil",
+    "title": "Non-Alcoholic Perfume Oil",
     "price": 120,
     "images": [
       "https://cdn.dummyjson.com/product-images/14/1.jpg",
@@ -194,7 +190,8 @@
       "https://cdn.dummyjson.com/product-images/14/thumbnail.jpg"
     ],
     "category": "fragrances",
-    "description": "Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil",
+    "description": "Original Al Munakh®️ by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil",
+    "colors": ["grey", "white"],
     "rating": 0,
     "reviews": []
   },
@@ -210,6 +207,7 @@
     ],
     "category": "fragrances",
     "description": "Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
+    "colors": ["silver", "white"],
     "rating": 0,
     "reviews": []
   },
@@ -224,36 +222,8 @@
       "https://cdn.dummyjson.com/product-images/16/thumbnail.jpg"
     ],
     "category": "skincare",
-    "description": "L'OrÃ©al Paris introduces Hyaluron Expert Replumping Serum formulated with 1.5% Hyaluronic Acid",
-    "rating": 0,
-    "reviews": []
-  },
-  {
-    "title": "Tree Oil 30ml",
-    "price": 12,
-    "images": [
-      "https://cdn.dummyjson.com/product-images/17/1.jpg",
-      "https://cdn.dummyjson.com/product-images/17/2.jpg",
-      "https://cdn.dummyjson.com/product-images/17/3.jpg",
-      "https://cdn.dummyjson.com/product-images/17/thumbnail.jpg"
-    ],
-    "category": "skincare",
-    "description": "Tea tree oil contains a number of compounds, including terpinen-4-ol, that have been shown to kill certain bacteria,",
-    "rating": 0,
-    "reviews": []
-  },
-  {
-    "title": "Oil Free Moisturizer 100ml",
-    "price": 40,
-    "images": [
-      "https://cdn.dummyjson.com/product-images/18/1.jpg",
-      "https://cdn.dummyjson.com/product-images/18/2.jpg",
-      "https://cdn.dummyjson.com/product-images/18/3.jpg",
-      "https://cdn.dummyjson.com/product-images/18/4.jpg",
-      "https://cdn.dummyjson.com/product-images/18/thumbnail.jpg"
-    ],
-    "category": "skincare",
-    "description": "Dermive Oil Free Moisturizer with SPF 20 is specifically formulated with ceramides, hyaluronic acid & sunscreen.",
+    "description": "L'OrÃ©️al Paris introduces Hyaluron Expert Replumping Serum formulated with 1.5% Hyaluronic Acid",
+    "colors": ["yellow", "white"],
     "rating": 0,
     "reviews": []
   },
@@ -268,92 +238,7 @@
     ],
     "category": "skincare",
     "description": "Product name: rorec collagen hyaluronic acid white face serum riceNet weight: 15 m",
-    "rating": 0,
-    "reviews": []
-  },
-  {
-    "title": "Freckle Treatment Cream- 15gm",
-    "price": 70,
-    "images": [
-      "https://cdn.dummyjson.com/product-images/20/1.jpg",
-      "https://cdn.dummyjson.com/product-images/20/2.jpg",
-      "https://cdn.dummyjson.com/product-images/20/3.jpg",
-      "https://cdn.dummyjson.com/product-images/20/4.jpg",
-      "https://cdn.dummyjson.com/product-images/20/thumbnail.jpg"
-    ],
-    "category": "skincare",
-    "description": "Fair & Clear is Pakistan's only pure Freckle cream which helpsfade Freckles, Darkspots and pigments. Mercury level is 0%, so there are no side effects.",
-    "rating": 0,
-    "reviews": []
-  },
-  {
-    "title": "- Daal Masoor 500 grams",
-    "price": 20,
-    "images": [
-      "https://cdn.dummyjson.com/product-images/21/1.png",
-      "https://cdn.dummyjson.com/product-images/21/2.jpg",
-      "https://cdn.dummyjson.com/product-images/21/3.jpg"
-    ],
-    "category": "groceries",
-    "description": "Fine quality Branded Product Keep in a cool and dry place",
-    "rating": 0,
-    "reviews": []
-  },
-  {
-    "title": "Elbow Macaroni - 400 gm",
-    "price": 14,
-    "images": [
-      "https://cdn.dummyjson.com/product-images/22/1.jpg",
-      "https://cdn.dummyjson.com/product-images/22/2.jpg",
-      "https://cdn.dummyjson.com/product-images/22/3.jpg"
-    ],
-    "category": "groceries",
-    "description": "Product details of Bake Parlor Big Elbow Macaroni - 400 gm",
-    "rating": 0,
-    "reviews": []
-  },
-  {
-    "title": "Orange Essence Food Flavou",
-    "price": 14,
-    "images": [
-      "https://cdn.dummyjson.com/product-images/23/1.jpg",
-      "https://cdn.dummyjson.com/product-images/23/2.jpg",
-      "https://cdn.dummyjson.com/product-images/23/3.jpg",
-      "https://cdn.dummyjson.com/product-images/23/4.jpg",
-      "https://cdn.dummyjson.com/product-images/23/thumbnail.jpg"
-    ],
-    "category": "groceries",
-    "description": "Specifications of Orange Essence Food Flavour For Cakes and Baking Food Item",
-    "rating": 0,
-    "reviews": []
-  },
-  {
-    "title": "cereals muesli fruit nuts",
-    "price": 46,
-    "images": [
-      "https://cdn.dummyjson.com/product-images/24/1.jpg",
-      "https://cdn.dummyjson.com/product-images/24/2.jpg",
-      "https://cdn.dummyjson.com/product-images/24/3.jpg",
-      "https://cdn.dummyjson.com/product-images/24/4.jpg",
-      "https://cdn.dummyjson.com/product-images/24/thumbnail.jpg"
-    ],
-    "category": "groceries",
-    "description": "original fauji cereal muesli 250gm box pack original fauji cereals muesli fruit nuts flakes breakfast cereal break fast faujicereals cerels cerel foji fouji",
-    "rating": 0,
-    "reviews": []
-  },
-  {
-    "title": "Gulab Powder 50 Gram",
-    "price": 70,
-    "images": [
-      "https://cdn.dummyjson.com/product-images/25/1.png",
-      "https://cdn.dummyjson.com/product-images/25/2.jpg",
-      "https://cdn.dummyjson.com/product-images/25/3.png",
-      "https://cdn.dummyjson.com/product-images/25/4.jpg",
-      "https://cdn.dummyjson.com/product-images/25/thumbnail.jpg"
-    ],
-    "category": "groceries",
-    "description": "Dry Rose Flower Powder Gulab Powder 50 Gram • Treats Wounds",
+    "colors": ["silver", "white"],
     "rating": 0,
     "reviews": []
   },
@@ -370,21 +255,7 @@
     ],
     "category": "decoration",
     "description": "Boho Decor Plant Hanger For decoration Wall Decoration Macrame Wall Hanging Shelf",
-    "rating": 0,
-    "reviews": []
-  },
-  {
-    "title": "Flying Wooden Bird",
-    "price": 51,
-    "images": [
-      "https://cdn.dummyjson.com/product-images/27/1.jpg",
-      "https://cdn.dummyjson.com/product-images/27/2.jpg",
-      "https://cdn.dummyjson.com/product-images/27/3.jpg",
-      "https://cdn.dummyjson.com/product-images/27/4.jpg",
-      "https://cdn.dummyjson.com/product-images/27/thumbnail.webp"
-    ],
-    "category": "decoration",
-    "description": "Package Include 6 Birds with Adhesive Tape Shape: 3D Shaped Wooden Birds Material: Wooden MDF, Laminated 3.5mm",
+    "colors": ["black", "red"],
     "rating": 0,
     "reviews": []
   },
@@ -400,49 +271,7 @@
     ],
     "category": "decoration",
     "description": "3D led lamp sticker Wall sticker 3d wall art light on/off button  cell operated (included)",
-    "rating": 0,
-    "reviews": []
-  },
-  {
-    "title": "Handcraft Chinese style",
-    "price": 60,
-    "images": [
-      "https://cdn.dummyjson.com/product-images/29/1.jpg",
-      "https://cdn.dummyjson.com/product-images/29/2.jpg",
-      "https://cdn.dummyjson.com/product-images/29/3.webp",
-      "https://cdn.dummyjson.com/product-images/29/4.webp",
-      "https://cdn.dummyjson.com/product-images/29/thumbnail.webp"
-    ],
-    "category": "decoration",
-    "description": "Handcraft Chinese style art luxury palace hotel villa mansion decoration decor ceramic vase with brass fruit plate",
-    "rating": 0,
-    "reviews": []
-  },
-  {
-    "title": "Key Holder",
-    "price": 30,
-    "images": [
-      "https://cdn.dummyjson.com/product-images/30/1.jpg",
-      "https://cdn.dummyjson.com/product-images/30/2.jpg",
-      "https://cdn.dummyjson.com/product-images/30/3.jpg",
-      "https://cdn.dummyjson.com/product-images/30/thumbnail.jpg"
-    ],
-    "category": "decoration",
-    "description": "Attractive DesignMetallic materialFour key hooksReliable & DurablePremium Quality",
-    "rating": 0,
-    "reviews": []
-  },
-  {
-    "title": "Apple iPhone 11 Pro Max",
-    "price": 349.26,
-    "images": [
-      "https://m.media-amazon.com/images/I/414sl59bDbL._SS36_.jpg",
-      "https://m.media-amazon.com/images/I/31YxSq6yBDS._SS36_.jpg",
-      "https://m.media-amazon.com/images/I/41nmV2+lMFS._SS36_.jpg",
-      "https://m.media-amazon.com/images/I/31CMgYbU5zL._SS36_.jpg"
-    ],
-    "category": "smartphones",
-    "description": "Inspected and guaranteed to have minimal cosmetic damage",
+    "colors": ["black", "yellow"],
     "rating": 0,
     "reviews": []
   },
@@ -457,11 +286,12 @@
     ],
     "category": "smartphones",
     "description": "6.7-inch Super Retina XDR display and advanced camera system for better photos in any light.",
+    "colors": ["black", "white"],
     "rating": 0,
     "reviews": []
   },
   {
-    "title": "Apple 2022 MacBook Air Laptop with M2 chip",
+    "title": "Apple 2022 MacBook Air Laptop M2 chip",
     "price": 820.71,
     "images": [
       "https://m.media-amazon.com/images/I/61PwBmt4H-L._AC_SL1500_.jpg",
@@ -472,21 +302,7 @@
     ],
     "category": "laptops",
     "description": "Your Mac feels familiar from the moment you turn it on, and works seamlessly with all your Apple devices.",
-    "rating": 0,
-    "reviews": []
-  },
-  {
-    "title": "Spigen DR210 Padded Head Strap Designed for Apple Vision Pro HeadStrap ",
-    "price": 26.99,
-    "images": [
-      "https://m.media-amazon.com/images/I/61X336E2zUL._AC_SL1200_.jpg",
-      "https://m.media-amazon.com/images/I/71eMUJPqVSL._AC_SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/61BkhGwpSZL._AC_SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71SegBb5lwL._AC_SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71qxikk7yyL._AC_SL1500_.jpg"
-    ],
-    "category": "accessories",
-    "description": "Upgrade Your Comfort: Luxurious, premium materials elevate your Apple Vision Pro experience with a seamless, sleek fit.",
+    "colors": ["black", "grey"],
     "rating": 0,
     "reviews": []
   },
@@ -502,49 +318,7 @@
     ],
     "category": "airpods",
     "description": "DUST, SWEAT, AND WATER RESISTANT ",
-    "rating": 0,
-    "reviews": []
-  },
-  {
-    "title": "Apple iPhone 11 Pro Max",
-    "price": 349.26,
-    "images": [
-      "https://m.media-amazon.com/images/I/61GJXo+EltS._AC_SL1144_.jpg",
-      "https://m.media-amazon.com/images/I/71v5v3awHCS._AC_SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/6121gBAXD8S._AC_SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/21SmRjOFrVS._AC_.jpg"
-    ],
-    "category": "smartphones",
-    "description": "Inspected and guaranteed to have minimal cosmetic damage",
-    "rating": 0,
-    "reviews": []
-  },
-  {
-    "title": "Apple iPhone 12 Mini",
-    "price": 204.24,
-    "images": [
-      "https://m.media-amazon.com/images/I/510Fpe16MoL._AC_SL1000_.jpg",
-      "https://m.media-amazon.com/images/I/41UR9-reUEL._AC_SL1000_.jpg",
-      "https://m.media-amazon.com/images/I/51rNY4vxAEL._AC_SL1000_.jpg",
-      "https://m.media-amazon.com/images/I/41UR9-reUEL._AC_SL1000_.jpg",
-      "https://m.media-amazon.com/images/I/61CJFIYcr1L._AC_SL1392_.jpg"
-    ],
-    "category": "smartphones",
-    "description": "Tested for battery health and guaranteed to have a minimum battery capacity of 80%",
-    "rating": 0,
-    "reviews": []
-  },
-  {
-    "title": "14 Pro MAX Unlocked Cell Phone",
-    "price": 158.99,
-    "images": [
-      "https://m.media-amazon.com/images/I/61cv1bH0diL._AC_SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71milG+ZcoL._AC_SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71jf7i4vojL._AC_SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/81HmtIWPLpL._AC_SL1500_.jpg"
-    ],
-    "category": "smartphones",
-    "description": "6.8-inch HD Screen with 3040*1440 resolution 5G cell phones",
+    "colors": ["black", "silver"],
     "rating": 0,
     "reviews": []
   },
@@ -560,20 +334,7 @@
     ],
     "category": "watch",
     "description": "Smartwatch with (Product) RED Aluminum Case with (Product) RED Sport Band M/L.",
-    "rating": 0,
-    "reviews": []
-  },
-  {
-    "title": "Apple iPhone 12 Mini",
-    "price": 75,
-    "images": [
-      "https://m.media-amazon.com/images/I/718tXCSqmOL._AC_SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71CjFRqKPeL._AC_SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/712ZS2ZzNcL._AC_SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/712ZS2ZzNcL._AC_SL1500_.jpg"
-    ],
-    "category": "smartphones",
-    "description": " Battery exceeds 90% of original capacity and has minimal cosmetic damage",
+    "colors": ["black", "grey"],
     "rating": 0,
     "reviews": []
   },
@@ -589,6 +350,7 @@
     ],
     "category": "camera",
     "description": "New selfie mirror; Picture size: 62 x 46 millimeter and shutter speed 1 per 60 seconds",
+    "colors": ["black", "brown"],
     "rating": 0,
     "reviews": []
   },
@@ -604,6 +366,7 @@
     ],
     "category": "watch",
     "description": " An aluminum Apple Watch Series 9 paired with the latest Sport Loop",
+    "colors": ["grey", "white"],
     "rating": 0,
     "reviews": []
   },
@@ -619,12 +382,763 @@
     ],
     "category": "watch",
     "description": "Up to 36 hours of battery life and 72 hours in Low Power Mode",
+    "colors": ["black", "gold"],
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Apple AirPods Max Wireless Headphones",
+    "price": 431.99,
+    "images": [
+      "https://m.media-amazon.com/images/I/81NIpE9-5mL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81jw08zdEgL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71+Z69HbGhL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81mT7xT5FyL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71QlK+ujnDL._AC_SL1500_.jpg"
+    ],
+    "category": "airpods",
+    "description": " Up to 20 hours of listening, movie watching, or talk time with Active Noise Cancellation",
+    "colors": ["black", "silver"],
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Fujifilm Instax Mini 9",
+    "price": 69.26,
+    "images": [
+      "https://m.media-amazon.com/images/I/61oRjn+XuBL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/716CdRaTO-L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61POMurtewL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/31fC-cKbF+L._AC_.jpg"
+    ],
+    "category": "camera",
+    "description": "Products with electrical plugs are designed for use in the US",
+    "colors": ["black", "purple"],
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "MOVSSOU E7 Headphones",
+    "price": 124.95,
+    "images": [
+      "https://m.media-amazon.com/images/I/71PhAwb1WhL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/716ptOGRg9L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71UuK1nljKL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71D-E0ztSNL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71IADY0XlJL._AC_SL1500_.jpg"
+    ],
+    "category": "headphones",
+    "description": "Advanced Active Noise Cancelling Technology: Reduced noise, better sound.",
+    "colors": ["black", "white"],
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Dell Gaming Desktop RGB Computer PC",
+    "price": 322.29,
+    "images": [
+      "https://m.media-amazon.com/images/I/81-nlq94ERL._AC_SL1486_.jpg",
+      "https://m.media-amazon.com/images/I/715sKOJmLaL._AC_SL1459_.jpg",
+      "https://m.media-amazon.com/images/I/7120Jt0MvuL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71TJk1VULtL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71MAp5KCQrL._AC_SL1500_.jpg"
+    ],
+    "category": "PC",
+    "description": " Intel Core i7, GeForce GT 1030 2GB GDDR5, 16GB RAM, 512GB SSD, 24 Inch HDMI Monitor, Keyboard Mouse and Headset, WiFi, Windows 10 Pro",
+    "colors": ["black", "silver"],
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "021 Apple 11-inch iPad Pro ",
+    "price": 999,
+    "images": [
+      "https://m.media-amazon.com/images/I/815KnP2wjDS._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71bwIJGoOhS._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71tvhvvFxzL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/813bnCMpejL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61aOg-7RwgS._AC_SL1500_.jpg"
+    ],
+    "category": "tablets",
+    "description": "Apple M1 chip for next-level performance.",
+    "colors": ["black", "gold"],
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Apple iPad (10th Generation)",
+    "price": 307.28,
+    "images": [
+      "https://m.media-amazon.com/images/I/61hZrbHRMWL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91psKPUkS4L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71hPJvZKLpL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71dSEx5u7vL._AC_SL1500_.jpg"
+    ],
+    "category": "tablets",
+    "description": "Colorfully reimagined and more versatile than ever, iPad is great for the things you do every day.",
+    "colors": ["grey", "gold"],
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "SAMSUNG Galaxy S24 Ultra 512GB",
+    "price": 1365,
+    "images": [
+      "https://m.media-amazon.com/images/I/71WcjsOVOmL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71yelMyyFJL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81M78G-fzTL._AC_SL1500_.jpg"
+    ],
+    "category": "smartphones",
+    "description": "200MP, 100x Zoom Cameras, Long Battery Life, S Pen, US Version, 2024, Titanium Black.",
+    "colors": ["black", "grey"],
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "SAMSUNG Galaxy S24 Ultra Cell Phone, 512GB AI Smartphone",
+    "price": 1365,
+    "colors": ["silver", "black"],
+    "images": [
+      "https://m.media-amazon.com/images/I/71WcjsOVOmL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71yelMyyFJL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81M78G-fzTL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81cL-tAS2lL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71gIPsoSQBL._AC_SL1500_.jpg"
+    ],
+    "category": "smartphones",
+    "description": "200MP, 100x Zoom Cameras, Long Battery Life, S Pen, US Version, 2024, Titanium Black.",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Smart Watch Health Fitness Tracker with 24/7 Heart Rate",
+    "price": 45.97,
+    "colors": ["blue", "black"],
+    "images": [
+      "https://m.media-amazon.com/images/I/613VOGd01RL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71CWPsNpVXL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61bPDrB28xL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71mEcYHosJL._AC_SL1500_.jpg"
+    ],
+    "category": "watch",
+    "description": "Pedometer, 24/7 Heart Rate Monitor, Blood Oxygen Monitor, Blood Pressure Monitor, Calls and Messages Notification,Tracking More than 115 Sports Activities, Sleep TrackerPedometer,24/7 Heart Rate Monitor, Blood Oxygen Monitor, Blood Pressure Monitor, Calls and Messages Notification, Tracking More than 115 Sports Activities",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "AGPTEK Smart Watch",
+    "colors": ["blue", "white"],
+    "price": 49.0,
+    "images": [
+      "https://m.media-amazon.com/images/I/71q3qp2vJmS._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71l6h90Y-oS._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71iEcFhNaZS._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71T7q1KczKS._AC_SL1500_.jpg"
+    ],
+    "category": "watch",
+    "description": "AGPTEK Smart Watch, IP68 Waterproof Smartwatch for Men Women Activity Tracker with Full Touch Color Screen Heart Rate Monitor Pedometer Sleep Monitor for Android and iOS Phones (Blue)",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Smart Watch Health Fitness Tracker ",
+    "colors": ["blue", "white"],
+    "price": 79.0,
+    "images": [
+      "https://m.media-amazon.com/images/I/71CWPsNpVXL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/613VOGd01RL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61bPDrB28xL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71mEcYHosJL._AC_SL1500_.jpg"
+    ],
+    "category": "watch",
+    "description": "Pedometer, 24/7 Heart Rate Monitor, Blood Oxygen Monitor Blood Pressure Monitor, Calls and Messages Notification More than 115 Sports Activities, Sleep TrackerPedometer 24/7 Heart Rate Monitor, Oxygen Monitor, Blood Pressure Monitor, Calls and Messages Notification, Tracking More than 115 Sports Activities",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "M-Audio",
+    "colors": ["black", "white"],
+    "price": 189.54,
+    "images": [
+      "https://m.media-amazon.com/images/I/61BRrmSrFtL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91AuIS5d7jL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91-+hnmPsfL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81aLDiHTqvL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91OiSgAMS8L._AC_SL1500_.jpg"
+    ],
+    "category": "accessories",
+    "description": "M-Audio Keystation 88 MK3 – 88 Key Semi Weighted MIDI Keyboard Controller for Complete Command of Virtual Synthesizers and DAW parameters",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Adapter 15V 1.5A (1500mA)",
+    "price": 14.96,
+    "images": [
+      "https://m.media-amazon.com/images/I/71XaEhcKkzL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61X-wYLVC+L._AC_SL1024_.jpg",
+      "https://m.media-amazon.com/images/I/71HHUrAV29L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81wLVOvjrgL._AC_SL1500_.jpg"
+    ],
+    "category": "electroics",
+    "description": "5.5x2.5millimeters Compatible with Native Instruments. 5 YEAR FREE REPLACEMENT WARRANTY 3RD PARTY NON OEM PARTS",
+    "rating": 0,
+    "colors": ["blue", "black"],
+    "reviews": []
+  },
+  {
+    "title": "Brain Game",
+    "price": 29,
+    "colors": ["red", "black"],
+    "images": [
+      "https://m.media-amazon.com/images/I/81BAa3gW+ML._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81xL71bVV0L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81cZlVO4OpL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71RBgX5BPeL._AC_SL1500_.jpg"
+    ],
+    "category": "game",
+    "description": "Our 4-in-1 cube light-up games help improve brain skills, hand-eye coordination, and reaction time. It's perfect for home or travel. Requires 3x AAA batteries (not included).",
+    "rating": 0,
+    "reviews": []
+  },
+
+  {
+    "title": "Smart TV",
+    "price": 158.99,
+    "colors": ["blue", "white"],
+    "images": [
+      "https://m.media-amazon.com/images/I/81JxAr7XgBL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71-i0T9WWBL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81m3gZPKznL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71FoiAZEwOL._AC_SL1500_.jpg"
+    ],
+    "category": "electronics",
+    "description": "VIZIO 40-inch Full HD 1080p Smart TV with DTS Virtual: X, Alexa Compatibility, Chromecast Built-in, Bluetooth Headphone Capable, (VFD40M-08 New)",
+    "rating": 0,
+    "reviews": []
+  },
+
+  {
+    "title": "Electronic Dart Board",
+    "price": 74.99,
+    "colors": ["blue", "green"],
+    "images": [
+      "https://m.media-amazon.com/images/I/81LJCzNAHEL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81ERrpLUHWL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81nE0-aG2DL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81agZ9Y+Z9L._AC_SL1500_.jpg`"
+    ],
+    "category": "game",
+    "description": "Electronic Dart Board, Soft Tip Dartboard Set 40 Games, 427 Variants Digital Electric Dart Boards with Colorful LED, 6 Darts, 100 Tips, Power Adapte",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Electronic Chess Set",
+    "price": 89.99,
+    "colors": ["blue", "white"],
+    "images": [
+      "https://m.media-amazon.com/images/I/81OWX5NFvbL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71oXr8akfzL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Qup1+MV3L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71bqLO5BWIL._AC_SL1500_.jpg"
+    ],
+    "category": "game",
+    "description": "Talking Chess Academy Electronic Chess Set, Magnetic Computer Chess Game with Interactive Teaching System",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Chess Set",
+    "price": 39.99,
+    "colors": ["white", "black"],
+    "images": [
+      "https://m.media-amazon.com/images/I/71R4zNHfvnL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71q28yp7qUL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81T73I+5Y2L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81gffHw-0DL._AC_SL1500_.jpg"
+    ],
+    "category": "game",
+    "description": "The Noble Collection Harry Potter Wizard Chess Set",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Air Duster Electronics",
+    "price": 28.71,
+    "colors": ["blue", "black"],
+    "images": [
+      "https://m.media-amazon.com/images/I/717axPspfiL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81iHKu3cLiL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71cB7e2FkYL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61Vubv--uyL._AC_SL1500_.jpg"
+    ],
+    "category": "accessories",
+    "description": "No place for small dirty things to hide and no need to dirty your hands.MECO compressed air duster max rotating speed is 100,000RPM",
+    "rating": 0,
+    "reviews": []
+  },
+
+  {
+    "title": "Waterproof wireless earphones",
+    "price": 139.99,
+    "colors": ["blue", "red"],
+    "images": [
+      "https://m.media-amazon.com/images/I/61KK3ZAw8OL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71mUBLPilmL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/8145YuHzdVL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71OaaX-6aEL._AC_SL1500_.jpg"
+    ],
+    "category": "earphones",
+    "description": ": The digital part of the LED screen displays the percentage of remaining battery power in the charging case in real time",
+    "rating": 0,
+    "reviews": []
+  },
+
+  {
+    "title": "Electronic Acupuncture Pen",
+    "price": 24.99,
+    "colors": ["blue", "black"],
+    "images": [
+      "https://m.media-amazon.com/images/I/71gdWYM0DmL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Q7XxGEzXL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Xe+f6xNsL._SL1500_.jpg"
+    ],
+    "category": "accessories",
+    "description": "Acupuncture Pen, 5-In-1Electronic Acupuncture Pen Pain Relief Therapy Rechargeable Powerful Meridian Energy Massage Pen Relief Pain Tools",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Phone 13 Pro",
+    "colors": ["gold", "silver"],
+    "price": 788,
+    "images": [
+      "https://m.media-amazon.com/images/I/61sDyXAepuL.jpg",
+      "https://m.media-amazon.com/images/I/71k0zz+8paL.jpg",
+      "https://m.media-amazon.com/images/I/71VNa3QYKcL.jpg",
+      "https://m.media-amazon.com/images/I/81JAv6iWg9L.jpg"
+    ],
+    "category": "smartphones",
+    "description": "Apple iPhone 13 Pro (1TB, Gold) [Locked] + Carrier Subscription",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Apple iPhone 6s",
+    "colors": ["red", "blue"],
+    "price": 400,
+    "images": [
+      "https://m.media-amazon.com/images/I/51xR2erVfmL._AC_SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/71oQoDIZ5QL._AC_SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/41sFiUJagBL._AC_.jpg",
+      "https://m.media-amazon.com/images/I/519ybVjZJxL._AC_.jpg"
+    ],
+    "category": "smartphones",
+    "description": "Factory Unlocked iPhone 6S Factory Unlocked,  Simple Mobile and any service that uses ATT and Tmobile Network - NOT COMPATIBLE with Verizon, Staright Talk and boost",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "smartphone",
+    "colors": ["yellow ", "green"],
+    "price": 700,
+    "images": [
+      "https://m.media-amazon.com/images/I/513dburuFML._AC_SL1168_.jpg",
+      "https://m.media-amazon.com/images/I/51uyixIdUpL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51MnJN9ZmjL._AC_SL1000_.jpg"
+    ],
+    "category": "smartphones",
+    "description": "This product is inspected, tested, and refurbished, as necessary to be fully functional according to Amazon Renewed standards",
+    "rating": 0,
+    "reviews": []
+  },
+
+  {
+    "title": "USB C Charger",
+    "colors": ["grey", "black"],
+    "price": 45,
+    "images": [
+      "https://m.media-amazon.com/images/I/51NEVWq5DYL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71pgMq8EItL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61D5hItHrmL._AC_SL1500_.jpg"
+    ],
+    "category": "accessories",
+    "description": "USB C Charger 6 Ft with 65W USB C Charger Block, iPhone 15 Charger, GaN II Foldable Fast Charger iphone for 15/15 Pro/Pro Max/iPad Pro AirPods/Samsung & More",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Apple iPhone 12 Pro Max",
+    "colors": ["blue", "green"],
+    "price": 766,
+    "images": [
+      "https://m.media-amazon.com/images/I/71PU4CDxUwL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61Y55tIaOeL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71gqvaXiE0L._AC_SL1500_.jpg"
+    ],
+    "category": "smartphones",
+    "description": "512GB, Pacific Blue - Unlocked (Renewed Premium)",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Apple iPhone 11 Pro Max",
+    "colors": ["black", "green"],
+    "price": 566,
+    "images": [
+      "https://m.media-amazon.com/images/I/51vusZ4p2tL._AC_SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/519LUxc0q-L._AC_SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/51yq0-aXqQL._AC_SL1000_.jpg"
+    ],
+    "category": "smartphones",
+    "description": "512GB,  - Unlocked (Renewed Premium)",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Apple iPhone XS",
+    "colors": ["red", "blue"],
+    "price": 355,
+    "images": [
+      "https://m.media-amazon.com/images/I/51I7GPdU6LL._AC_SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61qf3J3R5aL._AC_SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/31qIHA0vmKL._AC_SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61pN0sqByJL._AC_SL1500_.jpg"
+    ],
+    "category": "smartphones",
+    "description": "This product is inspected, tested, and refurbished, as necessary to be fully functional according to Amazon Renewed standards.",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Apple iPhone XS",
+    "colors": ["gold", "green"],
+    "price": 355,
+    "images": [
+      "https://m.media-amazon.com/images/I/71JlgXK+mLL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51olawmWxPL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/519goTD6hIL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51jhnXFGtPL._AC_SL1500_.jpg"
+    ],
+    "category": "smartphones",
+    "description": "This product is inspected, tested, and refurbished, as necessary to be fully functional according to Amazon Renewed standards.",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Apple iPhone SE",
+    "colors": ["gold", "gray"],
+    "price": 233,
+    "images": [
+      "https://m.media-amazon.com/images/I/4193K9fiSqL._AC_.jpg",
+      "https://m.media-amazon.com/images/I/41x0tAo3wnL._AC_.jpg",
+      "https://m.media-amazon.com/images/I/71E4Qdw9fYL._AC_SL1500_.jpg"
+    ],
+    "category": "smartphones",
+    "description": "Factory unlocked iPhone and compatible with AT&T, T-Mobile, Mint, Us Mobile, Ting Mobile",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Amazon Basics - 27 Inch IPS Monitor 75 Hz Powered with AOC Technology FHD 1080P HDMI",
+    "colors": ["gold", "gray"],
+    "price": 189,
+    "images": [
+      "https://m.media-amazon.com/images/I/91njuONYgzS._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61Bsr+5KtnL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61p4X2O6BbL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71qL895lOYL._AC_SL1500_.jpg"
+    ],
+    "category": "monitor",
+    "description": "unlocked monitor ",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Apple EarPods Headphones",
+    "price": 13.45,
+    "colors": ["blue", "white"],
+    "images": [
+      "https://m.media-amazon.com/images/I/41wYbyr3LLL._AC_SL1144_.jpg",
+      "https://m.media-amazon.com/images/I/41zg4DOTl2L._AC_SL1144_.jpg",
+      "https://m.media-amazon.com/images/I/41hpli-aKoL._AC_SL1144_.jpg"
+    ],
+    "category": "headphones",
+    "description": " Unlike traditional circular ear buds, the design of EarPods is defined by the geometry of the ear, headphones.",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": " IPS Monitor 75 Hz Powered with AOC Technology FHD 1080P HDMI",
+    "colors": ["black", "gray"],
+    "price": 109,
+    "images": [
+      "https://m.media-amazon.com/images/I/71ruU2-aFEL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71O6kpwBMyL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71rrAm844yL._AC_SL1500_.jpg"
+    ],
+    "category": "monitor",
+    "description": "best computer monitor for gaming ",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Apple EarPods Headphones",
+    "colors": ["black", "gray"],
+    "price": 64.41,
+    "images": [
+      "https://m.media-amazon.com/images/I/51bRSWrEc7S._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/618wL2LMGMS._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61X9Z2FMXLS._AC_SL1500_.jpg"
+    ],
+    "category": "headphones",
+    "description": "  the geometry of the ear, headphones.",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "headphones",
+    "colors": ["black", "white"],
+    "price": 39.95,
+    "images": [
+      "https://m.media-amazon.com/images/I/41+1Csr1pSL._AC_SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/618QCoicmSL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51+hzCQ97WL._AC_SL1500_.jpg"
+    ],
+    "category": "earphones",
+    "description": "JBL Vibe Beam - True Wireless JBL Deep Bass Sound Earbuds, Bluetooth 5.2, Water & Dust Resistant, ours of battery life (Black)",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Wireless Earbuds, Bluetooth 5.3 Headphones",
+    "colors": ["black", "white", "pink"],
+    "price": 29.99,
+    "images": [
+      "https://m.media-amazon.com/images/I/71V2chOoRtL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71GZjmvx46L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71NPfNLu3SL._AC_SL1500_.jpg"
+    ],
+    "category": "earphones",
+    "description": " 5.3 Headphones HiFi Stereo & 4 ENC Mic,  Bluetooth Earphones IPX7 Waterproof for iOS Android Earpods Sports Workout",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "laptop bag",
+    "colors": ["black", "white", "grey"],
+    "price": 15,
+    "images": [
+      "https://m.media-amazon.com/images/I/81pQnT9Sx9L._AC_SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/61v2ddphEzL._AC_SL1052_.jpg",
+      "https://m.media-amazon.com/images/I/71w37CyjqvL._AC_SL1050_.jpg"
+    ],
+    "category": "accessories",
+    "description": "Computer Carrying Briefcase Compatible with MacBook Air 15 M2,MacBook Pro 16 M1 2020-2023,15-16 Inch Microsoft Hp Lenovo Dell Acer Chromebook,Grey",
+    "rating": 0,
+    "reviews": []
+  },
+
+  {
+    "title": "Apple iPhone 14 Plus",
+    "price": 559.97,
+    "colors": ["blue", "black"],
+    "images": [
+      "https://m.media-amazon.com/images/I/716fAVud8PL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/713C6WEqyKL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71gApuoaMhL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61UI6BGSrhL._AC_SL1500_.jpg"
+    ],
+    "category": "smartphones",
+    "description": "6.7-inch Super Retina XDR display and advanced camera system for better photos in any light.",
+    "rating": 0,
+    "reviews": []
+  },
+
+  {
+    "title": "Apple 2022 MacBook Air Laptop with M2 chip",
+    "price": 820.71,
+    "colors": ["blue", "red"],
+    "images": [
+      "https://m.media-amazon.com/images/I/61PwBmt4H-L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71f5Eu5lJSL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61XufEFo1dL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81NQuPi96IL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61HS4BY-4rL._AC_SL1500_.jpg"
+    ],
+    "category": "laptops",
+    "description": "Your Mac feels familiar from the moment you turn it on, and works seamlessly with all your Apple devices.",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Spigen DR210 Padded Head Strap Designed for Apple Vision Pro HeadStrap ",
+    "price": 26.99,
+    "colors": ["red", "black"],
+    "images": [
+      "https://m.media-amazon.com/images/I/61X336E2zUL._AC_SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/71eMUJPqVSL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61BkhGwpSZL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71SegBb5lwL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71qxikk7yyL._AC_SL1500_.jpg"
+    ],
+    "category": "accessories",
+    "description": "Upgrade Your Comfort: Luxurious, premium materials elevate your Apple Vision Pro experience with a seamless, sleek fit.",
+    "rating": 0,
+    "reviews": []
+  },
+
+  {
+    "title": "Apple AirPods Pro (2nd Generation)",
+    "price": 137.46,
+    "colors": ["blue", "white"],
+    "images": [
+      "https://m.media-amazon.com/images/I/61SUj2aKoEL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61sRKTAfrhL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51emillNpWL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51+vJkbGtJL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/5121OBX4JIL._AC_SL1500_.jpg"
+    ],
+    "category": "airpods",
+    "description": "DUST, SWEAT, AND WATER RESISTANT ",
+    "rating": 0,
+    "reviews": []
+  },
+
+  {
+    "title": "Apple iPhone 11 Pro Max",
+    "price": 349.26,
+    "colors": ["blue", "black"],
+    "images": [
+      "https://m.media-amazon.com/images/I/61GJXo+EltS._AC_SL1144_.jpg",
+      "https://m.media-amazon.com/images/I/71v5v3awHCS._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/6121gBAXD8S._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/21SmRjOFrVS._AC_.jpg"
+    ],
+    "category": "smartphones",
+    "description": "Inspected and guaranteed to have minimal cosmetic damage",
+    "rating": 0,
+    "reviews": []
+  },
+
+  {
+    "title": "Apple iPhone 12 Mini",
+    "price": 204.24,
+    "colors": ["blue", "white"],
+    "images": [
+      "https://m.media-amazon.com/images/I/510Fpe16MoL._AC_SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/41UR9-reUEL._AC_SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/51rNY4vxAEL._AC_SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/41UR9-reUEL._AC_SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61CJFIYcr1L._AC_SL1392_.jpg"
+    ],
+    "category": "smartphones",
+    "description": "Tested for battery health and guaranteed to have a minimum battery capacity of 80%",
+    "rating": 0,
+    "reviews": []
+  },
+
+  {
+    "title": "14 Pro MAX Unlocked Cell Phone",
+    "price": 158.99,
+    "colors": ["blue", "red"],
+    "images": [
+      "https://m.media-amazon.com/images/I/61cv1bH0diL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71milG+ZcoL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71jf7i4vojL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81HmtIWPLpL._AC_SL1500_.jpg"
+    ],
+    "category": "smartphones",
+    "description": "6.8-inch HD Screen with 3040*1440 resolution 5G cell phones",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Apple Watch series 9",
+    "price": 287.22,
+    "colors": ["blue", "green"],
+    "images": [
+      "https://m.media-amazon.com/images/I/71sL5i7LVeL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71LLC5zHvSL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71lpJk+FHrL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71I-4Vt2mFL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61Wv+lEHyLL._AC_SL1500_.jpg"
+    ],
+    "category": "watch",
+    "description": "Smartwatch with (Product) RED Aluminum Case with (Product) RED Sport Band M/L.",
+    "rating": 0,
+    "reviews": []
+  },
+
+  {
+    "title": "Apple iPhone 12 Mini",
+    "price": 75,
+    "colors": ["red", "black"],
+    "images": [
+      "https://m.media-amazon.com/images/I/718tXCSqmOL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71CjFRqKPeL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/712ZS2ZzNcL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/712ZS2ZzNcL._AC_SL1500_.jpg"
+    ],
+    "category": "smartphones",
+    "description": " Battery exceeds 90% of original capacity and has minimal cosmetic damage",
+    "rating": 0,
+    "reviews": []
+  },
+
+  {
+    "title": "Fujifilm Instax Mini 9",
+    "price": 73.99,
+    "colors": ["blue"],
+    "images": [
+      "https://m.media-amazon.com/images/I/61jiSsnuRUL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/613ccUfUluL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81UHXcaE1VL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51UMHLC0ocL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51lJucdgQYL._AC_SL1500_.jpg"
+    ],
+    "category": "camera",
+    "description": "New selfie mirror; Picture size: 62 x 46 millimeter and shutter speed 1 per 60 seconds",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Apple Watch Series 9",
+    "price": 296.01,
+    "colors": ["red", "black"],
+    "images": [
+      "https://m.media-amazon.com/images/I/61fQEcyzLvL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61wepBus4aL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71rZm6Ju1lL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81C8zw3D4YL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61+6J0Aez9L._AC_SL1500_.jpg"
+    ],
+    "category": "watch",
+    "description": " An aluminum Apple Watch Series 9 paired with the latest Sport Loop",
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "title": "Apple Watch Ultra 2",
+    "price": 719,
+    "colors": ["blue"],
+    "images": [
+      "https://m.media-amazon.com/images/I/815fuZQlS6L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81D7OmeXqoL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/710TCQwhJuL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71TF0UqLVXL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/717FvBTWJrL._AC_SL1500_.jpg"
+    ],
+    "category": "watch",
+    "description": "Up to 36 hours of battery life and 72 hours in Low Power Mode",
     "rating": 0,
     "reviews": []
   },
   {
     "title": "Apple AirPods Max Wireless Over-Ear Headphones",
     "price": 431.99,
+    "colors": ["white"],
     "images": [
       "https://m.media-amazon.com/images/I/81NIpE9-5mL._AC_SL1500_.jpg",
       "https://m.media-amazon.com/images/I/81jw08zdEgL._AC_SL1500_.jpg",
@@ -640,6 +1154,7 @@
   {
     "title": "Fujifilm Instax Mini 12",
     "price": 124.95,
+    "colors": ["blue"],
     "images": [
       "https://m.media-amazon.com/images/I/71zvZoWVxRL._AC_SL1500_.jpg",
       "https://m.media-amazon.com/images/I/81lCl398ZQL._AC_SL1500_.jpg",
@@ -654,6 +1169,7 @@
   {
     "title": "Fujifilm Instax Mini 9",
     "price": 69.26,
+    "colors": ["blue"],
     "images": [
       "https://m.media-amazon.com/images/I/61oRjn+XuBL._AC_SL1500_.jpg",
       "https://m.media-amazon.com/images/I/716CdRaTO-L._AC_SL1500_.jpg",
@@ -668,6 +1184,7 @@
   {
     "title": "MOVSSOU E7 Active Noise Cancelling Headphones ",
     "price": 124.95,
+    "colors": ["blue", "red"],
     "images": [
       "https://m.media-amazon.com/images/I/71PhAwb1WhL._AC_SL1500_.jpg",
       "https://m.media-amazon.com/images/I/716ptOGRg9L._AC_SL1500_.jpg",
@@ -675,7 +1192,7 @@
       "https://m.media-amazon.com/images/I/71D-E0ztSNL._AC_SL1500_.jpg",
       "https://m.media-amazon.com/images/I/71IADY0XlJL._AC_SL1500_.jpg"
     ],
-    "category": "Headphone",
+    "category": "headphones",
     "description": "Advanced Active Noise Cancelling Technology: Reduced noise, better sound.",
     "rating": 0,
     "reviews": []
@@ -683,6 +1200,7 @@
   {
     "title": "Dell Gaming OptiPlex Desktop RGB Computer PC",
     "price": 322.29,
+    "colors": ["blue", "green"],
     "images": [
       "https://m.media-amazon.com/images/I/81-nlq94ERL._AC_SL1486_.jpg",
       "https://m.media-amazon.com/images/I/715sKOJmLaL._AC_SL1459_.jpg",
@@ -690,7 +1208,7 @@
       "https://m.media-amazon.com/images/I/71TJk1VULtL._AC_SL1500_.jpg",
       "https://m.media-amazon.com/images/I/71MAp5KCQrL._AC_SL1500_.jpg"
     ],
-    "category": "Computer",
+    "category": "PC",
     "description": " Intel Core i7, GeForce GT 1030 2GB GDDR5, 16GB RAM, 512GB SSD, 24 Inch HDMI Monitor, Keyboard Mouse and Headset, WiFi, Windows 10 Pro",
     "rating": 0,
     "reviews": []
@@ -698,6 +1216,7 @@
   {
     "title": "021 Apple 11-inch iPad Pro ",
     "price": 999,
+    "colors": ["blue", "red"],
     "images": [
       "https://m.media-amazon.com/images/I/815KnP2wjDS._AC_SL1500_.jpg",
       "https://m.media-amazon.com/images/I/71bwIJGoOhS._AC_SL1500_.jpg",
@@ -705,7 +1224,7 @@
       "https://m.media-amazon.com/images/I/813bnCMpejL._AC_SL1500_.jpg",
       "https://m.media-amazon.com/images/I/61aOg-7RwgS._AC_SL1500_.jpg"
     ],
-    "category": "Tablets",
+    "category": "tablets",
     "description": "Apple M1 chip for next-level performance.",
     "rating": 0,
     "reviews": []
@@ -713,20 +1232,23 @@
   {
     "title": "Apple iPad (10th Generation)",
     "price": 307.28,
+    "colors": ["blue", "green"],
     "images": [
       "https://m.media-amazon.com/images/I/61hZrbHRMWL._AC_SL1500_.jpg",
       "https://m.media-amazon.com/images/I/91psKPUkS4L._AC_SL1500_.jpg",
       "https://m.media-amazon.com/images/I/71hPJvZKLpL._AC_SL1500_.jpg",
       "https://m.media-amazon.com/images/I/71dSEx5u7vL._AC_SL1500_.jpg"
     ],
-    "category": "Tablets",
+    "category": "tablets",
     "description": "Colorfully reimagined and more versatile than ever, iPad is great for the things you do every day.",
     "rating": 0,
     "reviews": []
   },
+
   {
     "title": "MOFII Wireless Keyboard and Mouse Combo, Pink Wireless Keyboard.",
     "price": 30.59,
+    "colors": ["blue", "red"],
     "images": [
       "https://m.media-amazon.com/images/I/71hNoEtGZML._AC_SL1500_.jpg",
       "https://m.media-amazon.com/images/I/71ugJUNc7RL._AC_SL1500_.jpg",
@@ -739,9 +1261,11 @@
     "rating": 0,
     "reviews": []
   },
+
   {
     "title": "M SANMERSEN Kids Piano Keyboard with Microphone for Beginners Musical Toy",
     "price": 19.99,
+    "colors": ["white", "black"],
     "images": [
       "https://m.media-amazon.com/images/I/71Up0R1xDBL._AC_SL1500_.jpg",
       "https://m.media-amazon.com/images/I/71Kyb1FLd0L._AC_SL1500_.jpg",
@@ -749,14 +1273,16 @@
       "https://m.media-amazon.com/images/I/81g28xIIOTL._AC_SL1500_.jpg",
       "https://m.media-amazon.com/images/I/71gpz4GjmYL._AC_SL1500_.jpg"
     ],
-    "category": "keyboard",
+    "category": "toy",
     "description": "The upgraded keyboard piano has more functions and better sound quality, making it a great musical learning toy.",
     "rating": 0,
     "reviews": []
   },
+
   {
     "title": "SAMSUNG Galaxy S24 Ultra Cell Phone, 512GB AI Smartphone",
     "price": 1365,
+    "colors": ["blue", "black"],
     "images": [
       "https://m.media-amazon.com/images/I/71WcjsOVOmL._AC_SL1500_.jpg",
       "https://m.media-amazon.com/images/I/71yelMyyFJL._AC_SL1500_.jpg",
