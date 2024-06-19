@@ -43,7 +43,7 @@ exports.resetPassword = asyncCatch(async (req, res, next) => {
     const user = await User.findOne({ email: email })
     if (!user) return next(new GlobalError("Not valid email", 404))
     const token = await user.resetTokenHandler()
-    const url = `${process.env.FRONTEND_URL}/change/${token}`
+    const url = `https://shipshops.vercel.app/change/${token}`
     sendEmail({ to: email, subject: "Reset Password", url }, "reset")
     res.json({
         success: true,
@@ -121,10 +121,7 @@ exports.updateInfo = async (req, res, next) => {
     if (!name || !email || !id) return next(new GlobalError("Enter all credentials", 404))
     const user = await User.findOne({ _id: id })
     if (!user) return next(new GlobalError("Credential problem", 404))
-    user.birthday = birthday;
-    user.email = email;
-    user.name = name;
-    await user.save()
+    await user.updateUser(birthday, email, name)
     res.json({
         success: true,
         user
